@@ -1,0 +1,1 @@
+-keep class com.banka.app.data.db.** { *; }
